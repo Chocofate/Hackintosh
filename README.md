@@ -1,11 +1,11 @@
 # 自用黑苹果记录
-
 随着苹果自研芯片逐步完善，黑果将逐渐成为历史，行且珍惜吧 ...
-
 边尝试，边记录，菜鸟的吃果全程。
 
 ***参考链接：***
-> *https://bbs.pcbeta.com/viewthread-1896791-1-1.html*
+> *安装：https://blog.daliansky.net/OpenCore-BootLoader.html*
+> *下载：https://bbs.pcbeta.com/viewthread-1939091-1-1.html*
+> *https://blog.daliansky.net/macOS-Monterey-12.5.1-21G83-Release-version-with-OC-0.8.4-CLOVER-5148-and-FirPE-original-image.html*
 
 ## 一、硬件清单
  - **主板：MSI Z690 EDGE WiFi D4**
@@ -21,7 +21,7 @@
  - **网卡：Intel X540-T1 / I225-V**
  - 机箱：Corsair 5000X
  - 风扇：Corsair SP120 RGB ELITE × 7
- - 控制：Corsair Commander Core XT / RGB Hub
+ - **控制：Corsair Commander Core XT / RGB Hub**
  - 电源：Corsair RM1000x
  - 主显：Fshuo HX320S Pro 4K 144Hz HDR600 100% AdobeRGB 32 inch
  - 副显：Fshuo SW270 2K 75Hz 95% DCI-P3 27 inch
@@ -32,15 +32,15 @@
 
 ## 二、安装步骤
 配置环境：Windows 11 Business 21H2
+软件环境：BalenaEtcher、gibMacOS
 
-软件环境：
-
-
-
+1. 下载 gibMacOS 运行脚本，
 
 
 
 
-## 软件配置
- - 系统：macOS Monterey 12.5.1（21G83）
+
+
+## 二、软件配置
+ - 系统：macOS Monterey 12.6（21G115）
  - 引导：OpenCore 0.8.4
